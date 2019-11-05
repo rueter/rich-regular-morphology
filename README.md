@@ -59,15 +59,18 @@ Barents Sea languages, Circum Polar languages
 ## Giella Dictionaries
 
 ### Click-in-text dictionaries, Giella:
-* https://sanit.oahpa.no/
-* https://saan.oahpa.no/
-* https://sanat.oahpa.no/
-* https://valks.oahpa.no/
-* https://muter.oahpa.no/
-* https://kyv.oahpa.no/
-* https://vada.oahpa.no/
+* (North Sami)[https://sanit.oahpa.no/]
+* (Sourthern Sami)[https://baakoeh.oahpa.no/]
+* (Inari Sami)[https://saanih.oahpa.no/]
+* (Skolt Sami)[https://saan.oahpa.no/]
+* (northern Balto-Finnic languages)[https://sanat.oahpa.no/]
+* (southern Balto-Finnic languages)[https://sonad.oahpa.no/]
+* (Erzya and Moksha)[https://valks.oahpa.no/]
+* (Hill and Meadow Mari)[https://muter.oahpa.no/]
+* (Komi-Zyrian and Udmurt)[https://kyv.oahpa.no/]
+* (Tundra Nenets and Mansi)[https://vada.oahpa.no/]
 
-### Language internal and external links Akusanat:
+### Language internal and external links in multilingual dictionaries, Akusanat:
 * https://www.akusanat.com/, 
 * https://www.akusanat.com/verdd
 * https://www.akusanat.com/semantics 
