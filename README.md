@@ -20,7 +20,7 @@ These are the slides from a presentation in Tallinn 2019-10-11
 ## Open-source morphological descriptions for Uralic languages
 * First transducers of minority Uralic languages after Finnish 1983 (Kimmo Koskenniemi)
 * Meadow Mari ~1986 (Jorma Luutonen)
-* Komi-Zyrian 1996 (Jack Rueter)
+* [Komi-Zyrian 1996 (Jack Rueter)](https://github.com/rueter/aku-morph-komi-zyrian)
 
 * Giellatekno ~2000 begins work with Sami descriptions (Trond Trosterud et al)
 Barents Sea languages, Circum Polar languages
@@ -59,16 +59,16 @@ Barents Sea languages, Circum Polar languages
 ## Giella Dictionaries
 
 ### Click-in-text dictionaries, Giella:
-* (North Sami)[https://sanit.oahpa.no/]
-* (Sourthern Sami)[https://baakoeh.oahpa.no/]
-* (Inari Sami)[https://saanih.oahpa.no/]
-* (Skolt Sami)[https://saan.oahpa.no/]
-* (northern Balto-Finnic languages)[https://sanat.oahpa.no/]
-* (southern Balto-Finnic languages)[https://sonad.oahpa.no/]
-* (Erzya and Moksha)[https://valks.oahpa.no/]
-* (Hill and Meadow Mari)[https://muter.oahpa.no/]
-* (Komi-Zyrian and Udmurt)[https://kyv.oahpa.no/]
-* (Tundra Nenets and Mansi)[https://vada.oahpa.no/]
+* [North Sami](https://sanit.oahpa.no/)
+* [Sourthern Sami](https://baakoeh.oahpa.no/)
+* [Inari Sami](https://saanih.oahpa.no/)
+* [Skolt Sami](https://saan.oahpa.no/)
+* [northern Balto-Finnic languages](https://sanat.oahpa.no/)
+* [southern Balto-Finnic languages](https://sonad.oahpa.no/)
+* [Erzya and Moksha](https://valks.oahpa.no/)
+* [Hill and Meadow Mari](https://muter.oahpa.no/)
+* [Komi-Zyrian and Udmurt](https://kyv.oahpa.no/)
+* [Tundra Nenets and Mansi](https://vada.oahpa.no/)
 
 ### Language internal and external links in multilingual dictionaries, Akusanat:
 * https://www.akusanat.com/, 
@@ -80,24 +80,24 @@ Barents Sea languages, Circum Polar languages
 
 ## Intelligent Computer Assisted Language Learning
 * ICALL at Giella (Giellatekno & Divvun)
-* (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
-* (Skolt Sami)[http://oahpa.no/nuorti]
-* (Erzya)[http://oahpa.no/erzya/]
-* (Võro)[http://oahpa.no/voro/]
+* [Northern Sami ```Flag ship```](http://oahpa.no/davvi)
+* [Skolt Sami](http://oahpa.no/nuorti/)
+* [Erzya](http://oahpa.no/erzya/)
+* [Võro](http://oahpa.no/voro/)
 
 ## Translation
-* (Apertium: Shallow-transfer for closely related languages)[http://wiki.apertium.org/wiki/Main_Page]
+* [Apertium: Shallow-transfer for closely related languages](http://wiki.apertium.org/wiki/Main_Page)
 
 
 ## Text-to-speech
-* Common Voice (Mozilla)[https://voice.mozilla.org/en]
+* [Common Voice (Mozilla)](https://voice.mozilla.org/en)
 
 
 ## Infrastructures with intense activity
-* (EKI in Tallinn, Estonia)[http://portaal.eki.ee/sonaraamatud.html]
-* (FU-Lab in Syktyvkar, Komi Republic)[https://fu-lab.ru/fulabteam]
-* (Giella in Tromsø, Norway)[http://giellatekno.uit.no/]
-* (Mari Research Institute for Language, Literature and History)[http://marnii.ru/]
-* (UL Livonian institute)[http://www.livones.net/liv]
-* (Võro Instituut)[https://wi.ee/]
+* [EKI in Tallinn, Estonia](http://portaal.eki.ee/sonaraamatud.html)
+* [FU-Lab in Syktyvkar, Komi Republic](https://fu-lab.ru/fulabteam)
+* [Giella in Tromsø, Norway](http://giellatekno.uit.no/)
+* [Mari Research Institute for Language, Literature and History](http://marnii.ru/)
+* [UL Livonian institute](http://www.livones.net/liv)
+* [Võro Instituut](https://wi.ee/)
 
