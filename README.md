@@ -29,16 +29,23 @@ These are the slides from a presentation in Tallinn 2019-10-11
 * Uralic languages in majority: est = Estonian, fin = Finnish, hun = Hungarian
 * Auxilliary languages: deu = German, lav = Latvian, nob = Norwegian Bokmål, rus = Russian, tat = Tatar
 
+# Intelligent Computer Assisted Language Learning
+* ICALL at Giella (Giellatekno & Divvun)
+** (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
+** (Skolt Sami)[http://oahpa.no/nuorti]
+
+# Translation
+* (Apertium: Shallow-transfer for closely related languages)[http://wiki.apertium.org/wiki/Main_Page]
+
+
+# Text-to-speech
+* Common Voice (Mozilla)[https://voice.mozilla.org/en]
+
 
 # Infrastructures with intense activity
-EKI in Tallinn, Estonia
-http://portaal.eki.ee/sonaraamatud.html
-FU-Lab in Syktyvkar, Komi Republic
-https://fu-lab.ru/fulabteam
-Giella in Tromsø, Norway
-http://giellatekno.uit.no/
-Mari Research Institute for Language, Literature and History
-http://marnii.ru/
-UL Livonian institute
-http://www.livones.net/liv
-(Võro Instituut)[https://wi.ee/]
+* (EKI in Tallinn, Estonia)[http://portaal.eki.ee/sonaraamatud.html]
+* (FU-Lab in Syktyvkar, Komi Republic)[https://fu-lab.ru/fulabteam]
+* (Giella in Tromsø, Norway)[http://giellatekno.uit.no/]
+* (Mari Research Institute for Language, Literature and History)[http://marnii.ru/]
+* (UL Livonian institute)[http://www.livones.net/liv]
+* (Võro Instituut)[https://wi.ee/]
