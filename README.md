@@ -31,8 +31,8 @@ These are the slides from a presentation in Tallinn 2019-10-11
 
 # Intelligent Computer Assisted Language Learning
 * ICALL at Giella (Giellatekno & Divvun)
-  (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
-  (Skolt Sami)[http://oahpa.no/nuorti]
+*  (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
+*  (Skolt Sami)[http://oahpa.no/nuorti]
 
 # Translation
 * (Apertium: Shallow-transfer for closely related languages)[http://wiki.apertium.org/wiki/Main_Page]
