@@ -7,16 +7,28 @@ Contemplations and resolutions for rule-based morphological descriptions of lang
 These are the slides from a presentation in Tallinn 2019-10-11 
 ```Morphological analyzers and other digital tools for Uralic languages```
 
-# Searching for a methodology for linguistics
+# Background
+## Searching for a methodology for linguistics
 * (1) Extract paradigms from grammars, readers and research to build an analyzer.
 * (2) Extract words, part-of-speech information and definitions from existing dictionaries and research. Build on what has already been done (Dutch, French, German, Russian,…)
 * (3) Test analysis coverage on written texts. Are the forms unrecognized proper words?
 * (4) Disambiguate morphological analyses based on grammars and research. Point out gaps in descriptions
 * (5) Test syntactic disambiguation on example sentences cited in grammatical descriptions of the language. And then retest on text corpora.
 * (6) Make disambiguated sentences public, so others can test. One by-product of these golden standards are treebanks.
-(7) Use all phases to benefit the speaker and research community
+* (7) Use all phases to benefit the speaker and research community
 
-# Minority Uralic language forms with finite-state morphology development
+## Open-source morphological descriptions for Uralic languages
+* First transducers of minority Uralic languages after Finnish 1983 (Kimmo Koskenniemi)
+* Meadow Mari ~1986 (Jorma Luutonen)
+* Komi-Zyrian 1996 (Jack Rueter)
+
+* Giellatekno ~2000 begins work with Sami descriptions (Trond Trosterud et al)
+Barents Sea languages, Circum Polar languages
+~2004-> other Uralic languages
+
+
+
+## Minority Uralic language forms with finite-state morphology development
 * Balto-Finnic: fit = Meänkieli, fkv = Kveen, izh = Ingrian, krl = Karelian, liv = Livonian, olo = Olonets-Karelian aka Livvi, vep = Veps, vot = Votic, vro = Võro
 * Sami: sjd  = Kildin Sami, sje  = Pite Sami, sma = South Sami, sme = Northern Sami, smj = Lule Sami, smn = Inari Sami, sms = Skolt Sami
 * Mordvin: mdf = Moksha, myv = Erzya 
@@ -25,27 +37,64 @@ These are the slides from a presentation in Tallinn 2019-10-11
 * Ob Ugrian: kca = Khanty, mns = Mansi 
 * Samoyedic: nio = Nganasan , sel = Selkup, yrk = Nenets
 
-# Pertinent majority languages with finite-state morphology development
+## Pertinent majority languages with finite-state morphology development
 * Uralic languages in majority: est = Estonian, fin = Finnish, hun = Hungarian
 * Auxilliary languages: deu = German, lav = Latvian, nob = Norwegian Bokmål, rus = Russian, tat = Tatar
 
-# Intelligent Computer Assisted Language Learning
-* ICALL at Giella (Giellatekno & Divvun)
-*  (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
-*  (Skolt Sami)[http://oahpa.no/nuorti]
+## Setting up a Morphological analyzer
+* Find a source and use the known morphological information
+* Find or build a lexicon to propogate this word type
 
-# Translation
+...
+
+## Tools
+* Keyboards Giellalt/
+* Spell checkers: Hunspell, Voikko
+* Click-in-text dictionaries 
+* Language learning
+* Text-to-speech
+* Translation
+
+
+## Giella Dictionaries
+
+### Click-in-text dictionaries, Giella:
+* https://sanit.oahpa.no/
+* https://saan.oahpa.no/
+* https://sanat.oahpa.no/
+* https://valks.oahpa.no/
+* https://muter.oahpa.no/
+* https://kyv.oahpa.no/
+* https://vada.oahpa.no/
+
+### Language internal and external links Akusanat:
+* https://www.akusanat.com/, 
+* https://www.akusanat.com/verdd
+* https://www.akusanat.com/semantics 
+
+### Material Collaborations: FU-Lab, University of Turku, University of Tartu, University, EKI, University of Vienna, Livones, Võro Instituut
+
+
+## Intelligent Computer Assisted Language Learning
+* ICALL at Giella (Giellatekno & Divvun)
+* (Northern Sami ```Flag ship```)[http://oahpa.no/davvi]
+* (Skolt Sami)[http://oahpa.no/nuorti]
+* (Erzya)[http://oahpa.no/erzya/]
+* (Võro)[http://oahpa.no/voro/]
+
+## Translation
 * (Apertium: Shallow-transfer for closely related languages)[http://wiki.apertium.org/wiki/Main_Page]
 
 
-# Text-to-speech
+## Text-to-speech
 * Common Voice (Mozilla)[https://voice.mozilla.org/en]
 
 
-# Infrastructures with intense activity
+## Infrastructures with intense activity
 * (EKI in Tallinn, Estonia)[http://portaal.eki.ee/sonaraamatud.html]
 * (FU-Lab in Syktyvkar, Komi Republic)[https://fu-lab.ru/fulabteam]
 * (Giella in Tromsø, Norway)[http://giellatekno.uit.no/]
 * (Mari Research Institute for Language, Literature and History)[http://marnii.ru/]
 * (UL Livonian institute)[http://www.livones.net/liv]
 * (Võro Instituut)[https://wi.ee/]
+
