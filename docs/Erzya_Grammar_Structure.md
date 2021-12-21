@@ -3,7 +3,7 @@
 This is an outline of Erzya Grammar
 
 ## Лемполавтовкстнэде
-[чачонь лемполавтовкст](../personal-pronouns.md)
+[чачонь лемполавтовкст](personal-pronouns.md)
 
 ## Теема валонь чачотнеде
 
