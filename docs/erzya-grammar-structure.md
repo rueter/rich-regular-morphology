@@ -1,7 +1,7 @@
 # Эрзянь грамматиканть лувозо
 
 ## Лемвал
-[Лемвалтнэде](erzya-personal-pronouns.md)
+[Лемвалтнэде](erzya-nouns.md)
 
 ## Лемполавтовкс
 [Чачонь лемполавтовкст](erzya-personal-pronouns.md)
